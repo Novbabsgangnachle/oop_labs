@@ -1,0 +1,12 @@
+﻿{
+  "Database": {
+    "Host": "localhost",
+    "Port": 6432,
+    "Database": "postgres",
+    "Username": "postgres",
+    "Password": "12345",
+    "SslMode": "Prefer",
+    "Pooling": true
+  },
+  "AdminPassword": "12345"
+}
